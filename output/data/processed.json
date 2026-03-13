@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/openclaw/openclaw/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openclaw/openclaw/deployments",
     "created_at": "2025-11-24T10:16:47Z",
-    "updated_at": "2026-03-13T09:43:20Z",
-    "pushed_at": "2026-03-13T09:37:04Z",
+    "updated_at": "2026-03-13T10:18:15Z",
+    "pushed_at": "2026-03-13T09:49:25Z",
     "git_url": "git://github.com/openclaw/openclaw.git",
     "ssh_url": "git@github.com:openclaw/openclaw.git",
     "clone_url": "https://github.com/openclaw/openclaw.git",
     "svn_url": "https://github.com/openclaw/openclaw",
     "homepage": "https://openclaw.ai",
-    "size": 283888,
-    "stargazers_count": 309458,
-    "watchers_count": 309458,
+    "size": 283920,
+    "stargazers_count": 309549,
+    "watchers_count": 309549,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 58711,
+    "forks_count": 58735,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12791,
+    "open_issues_count": 12813,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -111,9 +111,9 @@
       "personal"
     ],
     "visibility": "public",
-    "forks": 58711,
-    "open_issues": 12791,
-    "watchers": 309458,
+    "forks": 58735,
+    "open_issues": 12813,
+    "watchers": 309549,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -144,8 +144,8 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 58711,
-    "subscribers_count": 1540
+    "network_count": 58735,
+    "subscribers_count": 1539
   },
   "contributors": [
     {
@@ -317,8 +317,8 @@
       "type": "User",
       "user_view_type": "public",
       "site_admin": false,
-      "contributions": 379,
-      "commits": 379,
+      "contributions": 385,
+      "commits": 385,
       "prCreated": 0,
       "prMerged": 0,
       "prClosed": 0,
@@ -326,11 +326,11 @@
       "reviews": 0,
       "comments": 0,
       "score": {
-        "code": 5940,
+        "code": 5956,
         "issues": 0,
         "reviews": 0,
         "comments": 0,
-        "total": 5940
+        "total": 5956
       },
       "tier": {
         "name": "elite",
@@ -2053,6 +2053,53 @@
       "rank": 40
     },
     {
+      "login": "frankekn",
+      "id": 4488090,
+      "node_id": "MDQ6VXNlcjQ0ODgwOTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4488090?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/frankekn",
+      "html_url": "https://github.com/frankekn",
+      "followers_url": "https://api.github.com/users/frankekn/followers",
+      "following_url": "https://api.github.com/users/frankekn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/frankekn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/frankekn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/frankekn/subscriptions",
+      "organizations_url": "https://api.github.com/users/frankekn/orgs",
+      "repos_url": "https://api.github.com/users/frankekn/repos",
+      "events_url": "https://api.github.com/users/frankekn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/frankekn/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 19,
+      "commits": 19,
+      "prCreated": 0,
+      "prMerged": 0,
+      "prClosed": 0,
+      "issuesCreated": 0,
+      "reviews": 0,
+      "comments": 0,
+      "score": {
+        "code": 2996,
+        "issues": 0,
+        "reviews": 0,
+        "comments": 0,
+        "total": 2996
+      },
+      "tier": {
+        "name": "veteran",
+        "label": "veteran Contributor",
+        "min": 500
+      },
+      "achievements": [],
+      "role": "Contributor",
+      "mergedPRs": 0,
+      "totalPRs": 0,
+      "closedPRs": 0,
+      "rank": 41
+    },
+    {
       "login": "ide-rea",
       "id": 30512600,
       "node_id": "MDQ6VXNlcjMwNTEyNjAw",
@@ -2086,53 +2133,6 @@
         "reviews": 0,
         "comments": 0,
         "total": 2996
-      },
-      "tier": {
-        "name": "veteran",
-        "label": "veteran Contributor",
-        "min": 500
-      },
-      "achievements": [],
-      "role": "Contributor",
-      "mergedPRs": 0,
-      "totalPRs": 0,
-      "closedPRs": 0,
-      "rank": 41
-    },
-    {
-      "login": "frankekn",
-      "id": 4488090,
-      "node_id": "MDQ6VXNlcjQ0ODgwOTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4488090?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/frankekn",
-      "html_url": "https://github.com/frankekn",
-      "followers_url": "https://api.github.com/users/frankekn/followers",
-      "following_url": "https://api.github.com/users/frankekn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/frankekn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/frankekn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/frankekn/subscriptions",
-      "organizations_url": "https://api.github.com/users/frankekn/orgs",
-      "repos_url": "https://api.github.com/users/frankekn/repos",
-      "events_url": "https://api.github.com/users/frankekn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/frankekn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false,
-      "contributions": 18,
-      "commits": 18,
-      "prCreated": 0,
-      "prMerged": 0,
-      "prClosed": 0,
-      "issuesCreated": 0,
-      "reviews": 0,
-      "comments": 0,
-      "score": {
-        "code": 2944,
-        "issues": 0,
-        "reviews": 0,
-        "comments": 0,
-        "total": 2944
       },
       "tier": {
         "name": "veteran",
@@ -4027,22 +4027,22 @@
       "rank": 82
     },
     {
-      "login": "ademczuk",
-      "id": 5212682,
-      "node_id": "MDQ6VXNlcjUyMTI2ODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5212682?v=4",
+      "login": "Nachx639",
+      "id": 71144023,
+      "node_id": "MDQ6VXNlcjcxMTQ0MDIz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71144023?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/ademczuk",
-      "html_url": "https://github.com/ademczuk",
-      "followers_url": "https://api.github.com/users/ademczuk/followers",
-      "following_url": "https://api.github.com/users/ademczuk/following{/other_user}",
-      "gists_url": "https://api.github.com/users/ademczuk/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/ademczuk/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/ademczuk/subscriptions",
-      "organizations_url": "https://api.github.com/users/ademczuk/orgs",
-      "repos_url": "https://api.github.com/users/ademczuk/repos",
-      "events_url": "https://api.github.com/users/ademczuk/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/ademczuk/received_events",
+      "url": "https://api.github.com/users/Nachx639",
+      "html_url": "https://github.com/Nachx639",
+      "followers_url": "https://api.github.com/users/Nachx639/followers",
+      "following_url": "https://api.github.com/users/Nachx639/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Nachx639/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Nachx639/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Nachx639/subscriptions",
+      "organizations_url": "https://api.github.com/users/Nachx639/orgs",
+      "repos_url": "https://api.github.com/users/Nachx639/repos",
+      "events_url": "https://api.github.com/users/Nachx639/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Nachx639/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false,
@@ -4074,22 +4074,22 @@
       "rank": 83
     },
     {
-      "login": "Nachx639",
-      "id": 71144023,
-      "node_id": "MDQ6VXNlcjcxMTQ0MDIz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/71144023?v=4",
+      "login": "ademczuk",
+      "id": 5212682,
+      "node_id": "MDQ6VXNlcjUyMTI2ODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5212682?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/Nachx639",
-      "html_url": "https://github.com/Nachx639",
-      "followers_url": "https://api.github.com/users/Nachx639/followers",
-      "following_url": "https://api.github.com/users/Nachx639/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Nachx639/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Nachx639/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Nachx639/subscriptions",
-      "organizations_url": "https://api.github.com/users/Nachx639/orgs",
-      "repos_url": "https://api.github.com/users/Nachx639/repos",
-      "events_url": "https://api.github.com/users/Nachx639/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Nachx639/received_events",
+      "url": "https://api.github.com/users/ademczuk",
+      "html_url": "https://github.com/ademczuk",
+      "followers_url": "https://api.github.com/users/ademczuk/followers",
+      "following_url": "https://api.github.com/users/ademczuk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ademczuk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ademczuk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ademczuk/subscriptions",
+      "organizations_url": "https://api.github.com/users/ademczuk/orgs",
+      "repos_url": "https://api.github.com/users/ademczuk/repos",
+      "events_url": "https://api.github.com/users/ademczuk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ademczuk/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false,
@@ -4309,6 +4309,53 @@
       "rank": 88
     },
     {
+      "login": "Lanfei",
+      "id": 2156642,
+      "node_id": "MDQ6VXNlcjIxNTY2NDI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2156642?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Lanfei",
+      "html_url": "https://github.com/Lanfei",
+      "followers_url": "https://api.github.com/users/Lanfei/followers",
+      "following_url": "https://api.github.com/users/Lanfei/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Lanfei/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Lanfei/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Lanfei/subscriptions",
+      "organizations_url": "https://api.github.com/users/Lanfei/orgs",
+      "repos_url": "https://api.github.com/users/Lanfei/repos",
+      "events_url": "https://api.github.com/users/Lanfei/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Lanfei/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 7,
+      "commits": 7,
+      "prCreated": 0,
+      "prMerged": 0,
+      "prClosed": 0,
+      "issuesCreated": 0,
+      "reviews": 0,
+      "comments": 0,
+      "score": {
+        "code": 2079,
+        "issues": 0,
+        "reviews": 0,
+        "comments": 0,
+        "total": 2079
+      },
+      "tier": {
+        "name": "veteran",
+        "label": "veteran Contributor",
+        "min": 500
+      },
+      "achievements": [],
+      "role": "Contributor",
+      "mergedPRs": 0,
+      "totalPRs": 0,
+      "closedPRs": 0,
+      "rank": 89
+    },
+    {
       "login": "jarvis-medmatic",
       "id": 252428873,
       "node_id": "U_kgDODwvCSQ",
@@ -4353,7 +4400,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 89
+      "rank": 90
     },
     {
       "login": "dutifulbob",
@@ -4400,7 +4447,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 90
+      "rank": 91
     },
     {
       "login": "HenryLoenwind",
@@ -4447,7 +4494,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 91
+      "rank": 92
     },
     {
       "login": "hsrvc",
@@ -4494,7 +4541,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 92
+      "rank": 93
     },
     {
       "login": "iHildy",
@@ -4541,7 +4588,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 93
+      "rank": 94
     },
     {
       "login": "lml2468",
@@ -4588,7 +4635,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 94
+      "rank": 95
     },
     {
       "login": "jnMetaCode",
@@ -4635,7 +4682,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 95
+      "rank": 96
     },
     {
       "login": "sumleo",
@@ -4682,7 +4729,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 96
+      "rank": 97
     },
     {
       "login": "NaturalTensor",
@@ -4729,7 +4776,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 97
+      "rank": 98
     },
     {
       "login": "damoahdominic",
@@ -4776,7 +4823,7 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 98
+      "rank": 99
     },
     {
       "login": "dan-dr",
@@ -4823,55 +4870,8 @@
       "mergedPRs": 0,
       "totalPRs": 0,
       "closedPRs": 0,
-      "rank": 99
-    },
-    {
-      "login": "aldoeliacim",
-      "id": 17973757,
-      "node_id": "MDQ6VXNlcjE3OTczNzU3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17973757?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/aldoeliacim",
-      "html_url": "https://github.com/aldoeliacim",
-      "followers_url": "https://api.github.com/users/aldoeliacim/followers",
-      "following_url": "https://api.github.com/users/aldoeliacim/following{/other_user}",
-      "gists_url": "https://api.github.com/users/aldoeliacim/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/aldoeliacim/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/aldoeliacim/subscriptions",
-      "organizations_url": "https://api.github.com/users/aldoeliacim/orgs",
-      "repos_url": "https://api.github.com/users/aldoeliacim/repos",
-      "events_url": "https://api.github.com/users/aldoeliacim/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/aldoeliacim/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false,
-      "contributions": 6,
-      "commits": 6,
-      "prCreated": 0,
-      "prMerged": 0,
-      "prClosed": 0,
-      "issuesCreated": 0,
-      "reviews": 0,
-      "comments": 0,
-      "score": {
-        "code": 1946,
-        "issues": 0,
-        "reviews": 0,
-        "comments": 0,
-        "total": 1946
-      },
-      "tier": {
-        "name": "veteran",
-        "label": "veteran Contributor",
-        "min": 500
-      },
-      "achievements": [],
-      "role": "Contributor",
-      "mergedPRs": 0,
-      "totalPRs": 0,
-      "closedPRs": 0,
       "rank": 100
     }
   ],
-  "updatedAt": "2026-03-13T09:43:30.965Z"
+  "updatedAt": "2026-03-13T10:18:20.777Z"
 }

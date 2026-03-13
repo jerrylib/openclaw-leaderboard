@@ -187,9 +187,9 @@ class StaticGenerator {
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-  <header class="banner"><div class="container"><a href="/" class="logo">{{repo.full_name}} Leaderboard</a><a href="{{repo.html_url}}" class="github-link" target="_blank">GitHub</a></div></header>
+  <header class="banner"><div class="container"><a href="../index.html" class="logo">{{repo.full_name}} Leaderboard</a><a href="{{repo.html_url}}" class="github-link" target="_blank">GitHub</a></div></header>
   <main class="container">
-    <a href="/" class="back-link">← Back to Leaderboard</a>
+    <a href="../index.html" class="back-link">← Back to Leaderboard</a>
     <section class="profile-header">
       <img src="{{contributor.avatar_url}}" alt="{{contributor.login}}" class="profile-avatar">
       <h1>{{contributor.login}}</h1>
